@@ -1,0 +1,14 @@
+C:\Users\Alex\8.25 Project\EightQueenBruteForce\EightQueenBruteForce\bin\Debug\EightQueenBruteForce.exe.config
+C:\Users\Alex\8.25 Project\EightQueenBruteForce\EightQueenBruteForce\bin\Debug\EightQueenBruteForce.exe
+C:\Users\Alex\8.25 Project\EightQueenBruteForce\EightQueenBruteForce\bin\Debug\EightQueenBruteForce.pdb
+C:\Users\Alex\8.25 Project\EightQueenBruteForce\EightQueenBruteForce\obj\Debug\EightQueenBruteForce.csproj.CoreCompileInputs.cache
+C:\Users\Alex\8.25 Project\EightQueenBruteForce\EightQueenBruteForce\obj\Debug\EightQueenBruteForce.exe
+C:\Users\Alex\8.25 Project\EightQueenBruteForce\EightQueenBruteForce\obj\Debug\EightQueenBruteForce.pdb
+C:\Users\Alex\8.25 Project\EightQueenBruteForce\EightQueenBruteForce\obj\Debug\EightQueenBruteForce.csprojAssemblyReference.cache
+C:\Users\Alex\C#\EightQueenBruteForce\EightQueenBruteForce\bin\Debug\EightQueenBruteForce.exe.config
+C:\Users\Alex\C#\EightQueenBruteForce\EightQueenBruteForce\bin\Debug\EightQueenBruteForce.exe
+C:\Users\Alex\C#\EightQueenBruteForce\EightQueenBruteForce\bin\Debug\EightQueenBruteForce.pdb
+C:\Users\Alex\C#\EightQueenBruteForce\EightQueenBruteForce\obj\Debug\EightQueenBruteForce.csprojAssemblyReference.cache
+C:\Users\Alex\C#\EightQueenBruteForce\EightQueenBruteForce\obj\Debug\EightQueenBruteForce.csproj.CoreCompileInputs.cache
+C:\Users\Alex\C#\EightQueenBruteForce\EightQueenBruteForce\obj\Debug\EightQueenBruteForce.exe
+C:\Users\Alex\C#\EightQueenBruteForce\EightQueenBruteForce\obj\Debug\EightQueenBruteForce.pdb
