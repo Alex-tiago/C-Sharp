@@ -1,0 +1,13 @@
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\yt-4-15-TargetHeartRateCalculator\yt-4-15-TargetHeartRateCalculator\bin\Debug\yt-4-15-TargetHeartRateCalculator.exe.config
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\yt-4-15-TargetHeartRateCalculator\yt-4-15-TargetHeartRateCalculator\bin\Debug\yt-4-15-TargetHeartRateCalculator.exe
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\yt-4-15-TargetHeartRateCalculator\yt-4-15-TargetHeartRateCalculator\bin\Debug\yt-4-15-TargetHeartRateCalculator.pdb
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\yt-4-15-TargetHeartRateCalculator\yt-4-15-TargetHeartRateCalculator\obj\Debug\yt-4-15-TargetHeartRateCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\yt-4-15-TargetHeartRateCalculator\yt-4-15-TargetHeartRateCalculator\obj\Debug\yt-4-15-TargetHeartRateCalculator.exe
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\yt-4-15-TargetHeartRateCalculator\yt-4-15-TargetHeartRateCalculator\obj\Debug\yt-4-15-TargetHeartRateCalculator.pdb
+C:\Users\Alex\4.14-Project\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.exe.config
+C:\Users\Alex\4.14-Project\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.exe
+C:\Users\Alex\4.14-Project\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.pdb
+C:\Users\Alex\4.14-Project\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csprojAssemblyReference.cache
+C:\Users\Alex\4.14-Project\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\4.14-Project\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.exe
+C:\Users\Alex\4.14-Project\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.pdb
