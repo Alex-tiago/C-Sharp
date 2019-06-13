@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Calculating_PI\Calculating_PI\bin\Debug\Calculating_PI.exe.config
+C:\Users\Alex\source\repos\Calculating_PI\Calculating_PI\bin\Debug\Calculating_PI.exe
+C:\Users\Alex\source\repos\Calculating_PI\Calculating_PI\bin\Debug\Calculating_PI.pdb
+C:\Users\Alex\source\repos\Calculating_PI\Calculating_PI\obj\Debug\Calculating_PI.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Calculating_PI\Calculating_PI\obj\Debug\Calculating_PI.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Calculating_PI\Calculating_PI\obj\Debug\Calculating_PI.exe
+C:\Users\Alex\source\repos\Calculating_PI\Calculating_PI\obj\Debug\Calculating_PI.pdb
