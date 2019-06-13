@@ -1,0 +1,9 @@
+C:\Users\Alex\14.4 Project\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe.config
+C:\Users\Alex\14.4 Project\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+C:\Users\Alex\14.4 Project\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+C:\Users\Alex\14.4 Project\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.Form1.resources
+C:\Users\Alex\14.4 Project\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+C:\Users\Alex\14.4 Project\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.cache
+C:\Users\Alex\14.4 Project\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\Alex\14.4 Project\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+C:\Users\Alex\14.4 Project\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
