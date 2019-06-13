@@ -1,0 +1,7 @@
+C:\Users\Alex\6.24 Project\Modified_Diamond\Modified_Diamond\bin\Debug\Modified_Diamond.exe.config
+C:\Users\Alex\6.24 Project\Modified_Diamond\Modified_Diamond\bin\Debug\Modified_Diamond.exe
+C:\Users\Alex\6.24 Project\Modified_Diamond\Modified_Diamond\bin\Debug\Modified_Diamond.pdb
+C:\Users\Alex\6.24 Project\Modified_Diamond\Modified_Diamond\obj\Debug\Modified_Diamond.csprojAssemblyReference.cache
+C:\Users\Alex\6.24 Project\Modified_Diamond\Modified_Diamond\obj\Debug\Modified_Diamond.csproj.CoreCompileInputs.cache
+C:\Users\Alex\6.24 Project\Modified_Diamond\Modified_Diamond\obj\Debug\Modified_Diamond.exe
+C:\Users\Alex\6.24 Project\Modified_Diamond\Modified_Diamond\obj\Debug\Modified_Diamond.pdb
