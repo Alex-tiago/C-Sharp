@@ -1,0 +1,7 @@
+C:\Users\Alex\8.17 Project\Dice_Rolling\Dice_Rolling\bin\Debug\Dice_Rolling.exe.config
+C:\Users\Alex\8.17 Project\Dice_Rolling\Dice_Rolling\bin\Debug\Dice_Rolling.exe
+C:\Users\Alex\8.17 Project\Dice_Rolling\Dice_Rolling\bin\Debug\Dice_Rolling.pdb
+C:\Users\Alex\8.17 Project\Dice_Rolling\Dice_Rolling\obj\Debug\Dice_Rolling.csprojAssemblyReference.cache
+C:\Users\Alex\8.17 Project\Dice_Rolling\Dice_Rolling\obj\Debug\Dice_Rolling.csproj.CoreCompileInputs.cache
+C:\Users\Alex\8.17 Project\Dice_Rolling\Dice_Rolling\obj\Debug\Dice_Rolling.exe
+C:\Users\Alex\8.17 Project\Dice_Rolling\Dice_Rolling\obj\Debug\Dice_Rolling.pdb

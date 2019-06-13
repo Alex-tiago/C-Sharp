@@ -1,0 +1,10 @@
+C:\Users\Alex\Conversion\Conversion\Conversion\bin\Debug\Conversion.exe.config
+C:\Users\Alex\Conversion\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Users\Alex\Conversion\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Users\Alex\Conversion\Conversion\Conversion\obj\Debug\Conversion.csprojAssemblyReference.cache
+C:\Users\Alex\Conversion\Conversion\Conversion\obj\Debug\Conversion.Form1.resources
+C:\Users\Alex\Conversion\Conversion\Conversion\obj\Debug\Conversion.Properties.Resources.resources
+C:\Users\Alex\Conversion\Conversion\Conversion\obj\Debug\Conversion.csproj.GenerateResource.cache
+C:\Users\Alex\Conversion\Conversion\Conversion\obj\Debug\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Conversion\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Users\Alex\Conversion\Conversion\Conversion\obj\Debug\Conversion.pdb
